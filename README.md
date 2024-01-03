@@ -11,11 +11,9 @@ Here's a collection of projects, feel free to reach out with any questions or co
 An Arduino-Mega based hexapod robot built during Summer 2023. It features 18 servos to actuate the legs, plus a radio receiver to get commands from a remote control. Plans are currently in the works to create a vision-based controller (when I get some free time 😅).
 
 Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
-![IMG_8186](https://github.com/amcaleer271/amcaleer271/assets/93012410/c1706d5e-2fe7-4af4-9514-e5c550076eb8)
+
+(Click to watch a video demo)
 [![Video Demo](https://img.youtube.com/vi/QX3Zz461Cco/maxresdefault.jpg)](https://youtu.be/QX3Zz461Cco)
-
-
-
 
 ## Cycloidal Gearbox
 A small 3D-printed cycloidal gearbox to increase output torque from a NEMA-17
