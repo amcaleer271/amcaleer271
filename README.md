@@ -29,12 +29,15 @@ Repo for CAD parts: https://github.com/amcaleer271/Cycloidal-Gearbox
 
 One of my projects at the University of Florida's Machine Intelligence Lab, this is a small servo acutated gripper to grasp objects underwater
 
+Repo for CAD parts: https://github.com/amcaleer271/AUV_Gripper
 (Click image to watch a video demo)
 
 [<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/743aa879-3a2d-4155-98af-2cca86cf8ceb">](https://youtube.com/shorts/BGtZ7x_uvhA?feature=share)
 
 
 ## 6-DOF Arm (in progress)
+
+Currently manufacturing parts, stay tuned for updates!
 
 # Get in touch!
 
