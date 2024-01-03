@@ -17,6 +17,12 @@ Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
 
 ## Cycloidal Gearbox
 A small 3D-printed cycloidal gearbox to increase output torque from a NEMA-17
+
+Repo for CAD parts: https://github.com/amcaleer271/Cycloidal-Gearbox
+
+(Click to watch a video demo)
+
+[![Video Demo](https://youtu.be/6MvbfTkwa2M)](![IMG_8187](https://github.com/amcaleer271/amcaleer271/assets/93012410/0770677a-3d47-4740-8093-a3e72c580fb9)
 ## AUV Gripper
 
 ## 6-DOF Arm (in progress)
