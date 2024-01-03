@@ -13,7 +13,7 @@ An Arduino-Mega based hexapod robot built during Summer 2023. It features 18 ser
 Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
 ![IMG_8186](https://github.com/amcaleer271/amcaleer271/assets/93012410/c1706d5e-2fe7-4af4-9514-e5c550076eb8)
 
-[[Video Demo]([https://youtu.be/SHwYMyICZEQ](https://youtu.be/QX3Zz461Cco))]
+[![Video Demo]([https://youtu.be/SHwYMyICZEQ](https://youtu.be/QX3Zz461Cco))]
 
 
 ## Cycloidal Gearbox
