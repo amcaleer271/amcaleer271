@@ -27,12 +27,22 @@ Repo for CAD parts: https://github.com/amcaleer271/Cycloidal-Gearbox
 
 ## AUV Gripper
 
-One of my projects at the University of Florida's Machine Intelligence Lab, this is a small servo acutated gripper to grasp objects underwater
+One of my projects at the University of Florida's Machine Intelligence Lab, this is a small servo actuated gripper to grasp objects underwater
 
 Repo for CAD parts: https://github.com/amcaleer271/AUV_Gripper
 (Click image to watch a video demo)
 
 [<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/743aa879-3a2d-4155-98af-2cca86cf8ceb">](https://youtube.com/shorts/BGtZ7x_uvhA?feature=share)
+
+## AUV Dropper
+
+Another of my projects for the University of Florida's Machine Intelligence Lab is this small mechanism dropper marker balls as part of the roboSub Challenge series. It was adapted from an old lab prototype, but I contributed an overhaul to the marker carrier, adding a way to reload the markers, and some quality-of-life upgrades.
+
+Repo for CAD Parts: https://github.com/amcaleer271/AUV_Dropper
+
+<img width="300" alt="CAD_screenshot" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/c24216a6-cbb8-4b82-84be-5e4ce805372a">
+
+<img width="365" alt="Thumbnail_cropped" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/ae9edd7d-73ef-4e3d-9a87-15cb17360ae9">
 
 
 ## 6-DOF Arm (in progress)
