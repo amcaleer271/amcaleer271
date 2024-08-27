@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm Adam, currently a sophomore at the University of Florida studying Mechanical Engineering. I'm interested in all things robotics, from safe autonomous systems to legged locomotion. Outside my classwork, I've built some robots and small projects, check them out below! I'm passionate about integrating robots into our world, both by advancing their technical capabilities and by building public trust and understanding.
+I'm Adam, currently a junior at the University of Florida studying Mechanical Engineering. I'm interested in all things robotics, from safe autonomous systems to legged locomotion. Outside my classwork, I've built some robots and small projects, check them out below! I'm passionate about integrating robots into our world, both by advancing their technical capabilities and by building public trust and understanding.
 
 # Projects
 
