@@ -55,3 +55,6 @@ Email: adammcaleer@ufl.edu
 
 LinkedIn: https://www.linkedin.com/in/adam-mcaleer/
 
+Resume: [Click to download!](https://github.com/user-attachments/files/17280226/Adam.McAleer.Resume.10_4_24.pdf)
+
+
