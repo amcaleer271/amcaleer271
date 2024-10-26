@@ -17,10 +17,10 @@ Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
 [<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/48512dbf-6525-485e-97f5-7b04b355159f">](https://youtu.be/QX3Zz461Cco)
 
 ## Racquetball Launcher
-My latest project at the University of Florida's Machine Intelligence Lab, I developed this flywheel based racquetball launcher from scratch. After multiple design iterations, I manufactured all parts using 3D printers and a waterjet cutter.
+My latest project at the University of Florida's Machine Intelligence Lab, I developed this flywheel based racquetball launcher from scratch. After multiple design iterations, I manufactured all parts using 3D printers and a waterjet cutter. The launcher was built to be used on NaviGator 2024, a large autonomous boat 
 
 
-Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
+Repo for CAD parts and code: [https://github.com/amcaleer271/Hexapod_Robot](https://github.com/amcaleer271/MIL_Ball_Launcher)
 
 <img width="600" alt = "Launcher_Screenshot" src="https://github.com/user-attachments/assets/086c5e4e-0c57-4700-a676-da9529634812">
 
