@@ -6,7 +6,7 @@ I'm Adam, currently a junior at the University of Florida studying Mechanical En
 
 # Projects
 
-Here's a collection of projects, feel free to reach out with any questions or collaboration inquiries.
+Here's a collection of projects, feel free to reach out with any questions!
 ## Hexapod Robot
 An Arduino-Mega based hexapod robot built during Summer 2023. It features 18 servos to actuate the legs, plus a radio receiver to get commands from a remote control. Plans are currently in the works to create a vision-based controller (when I get some free time 😅).
 
@@ -16,14 +16,13 @@ Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
 
 [<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/48512dbf-6525-485e-97f5-7b04b355159f">](https://youtu.be/QX3Zz461Cco)
 
-## Cycloidal Gearbox
-A small 3D-printed cycloidal gearbox to increase output torque from a NEMA-17
+## Racquetball Launcher
+My latest project at the University of Florida's Machine Intelligence Lab, I developed this flywheel based racquetball launcher from scratch. After multiple design iterations, I manufactured all parts using 3D printers and a waterjet cutter.
 
-Repo for CAD parts: https://github.com/amcaleer271/Cycloidal-Gearbox
 
-(Click image to watch a video demo)
+Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
 
-[<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/0770677a-3d47-4740-8093-a3e72c580fb9">](https://youtu.be/6MvbfTkwa2M)
+![Racquetball launcher](https://github.com/user-attachments/assets/086c5e4e-0c57-4700-a676-da9529634812)
 
 ## AUV Gripper
 
@@ -44,10 +43,17 @@ Repo for CAD Parts: https://github.com/amcaleer271/AUV_Dropper
 
 <img width="365" alt="Thumbnail_cropped" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/ae9edd7d-73ef-4e3d-9a87-15cb17360ae9">
 
+## Cycloidal Gearbox
+A small 3D-printed cycloidal gearbox to increase output torque from a NEMA-17
 
-## 6-DOF Arm (in progress)
+Repo for CAD parts: https://github.com/amcaleer271/Cycloidal-Gearbox
 
-Currently manufacturing parts, stay tuned for updates!
+(Click image to watch a video demo)
+
+[<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/0770677a-3d47-4740-8093-a3e72c580fb9">](https://youtu.be/6MvbfTkwa2M)
+
+
+
 
 # Get in touch!
 
