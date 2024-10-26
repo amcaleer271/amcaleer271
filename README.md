@@ -22,7 +22,7 @@ My latest project at the University of Florida's Machine Intelligence Lab, I dev
 
 Repo for CAD parts and code: https://github.com/amcaleer271/Hexapod_Robot
 
-![Racquetball launcher](https://github.com/user-attachments/assets/086c5e4e-0c57-4700-a676-da9529634812)
+<img width="600" alt = "Launcher_Screenshot" src="https://github.com/user-attachments/assets/086c5e4e-0c57-4700-a676-da9529634812">
 
 ## AUV Gripper
 
