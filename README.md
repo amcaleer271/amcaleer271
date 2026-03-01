@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm Adam, currently a senior at the University of Florida studying Mechanical Engineering. I'm interested in all things robotics, from safe autonomous systems to legged locomotion. Outside my classwork, I've built some robots and small projects, check them out below! I'm passionate about integrating robots into our world, both by advancing their technical capabilities and by building public trust and understanding.
+I'm Adam, currently a senior at the University of Florida studying Mechanical Engineering. I'm interested in all things robotics, from multi-robot collaboration to robust mechanical design. Outside my classwork, I've built some robots and small projects, check them out below! I'm passionate about integrating robots into our world, both by advancing their technical capabilities and by building public trust and understanding.
 
 # Projects
 
@@ -23,15 +23,6 @@ My latest project at the University of Florida's Machine Intelligence Lab, I dev
 Repo for CAD parts and code: [https://github.com/amcaleer271/MIL_Ball_Launcher](https://github.com/amcaleer271/MIL_Ball_Launcher)
 
 <img width="600" alt = "Launcher_Screenshot" src="https://github.com/user-attachments/assets/086c5e4e-0c57-4700-a676-da9529634812">
-
-## AUV Gripper
-
-One of my projects at the University of Florida's Machine Intelligence Lab, this is a small servo actuated gripper to grasp objects underwater
-
-Repo for CAD parts: https://github.com/amcaleer271/AUV_Gripper
-(Click image to watch a video demo)
-
-[<img width="600" alt="gripper img" src="https://github.com/amcaleer271/amcaleer271/assets/93012410/743aa879-3a2d-4155-98af-2cca86cf8ceb">](https://youtube.com/shorts/BGtZ7x_uvhA?feature=share)
 
 ## AUV Dropper
 
@@ -61,8 +52,5 @@ Email: adammcaleer@ufl.edu
 
 LinkedIn: https://www.linkedin.com/in/adam-mcaleer/
 
-Resume: [Click to download!](https://github.com/user-attachments/files/17280226/Adam.McAleer.Resume.10_4_24.pdf)
-
-Website: adammcaleer.com
 
 
