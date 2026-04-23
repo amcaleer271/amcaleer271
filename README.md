@@ -13,7 +13,8 @@ An azimuth thruster I created for my senior realization thesis at the University
 
 Repo for CAD and thesis paper: https://github.com/amcaleer271/azimuth_thruster
 
-<img width="342" height="785" alt="image" src="https://github.com/user-attachments/assets/3d892c6c-7b25-47d3-bb8b-55af2096f410" />
+<img width="586" height="634" alt="image" src="https://github.com/user-attachments/assets/ed0a831c-896b-4ffd-be74-2a4d8418c1ed" />
+
 
 ## SubjuGator 9 - Spring 2025-Spring 2026
 One of my main involvements at UF's Machine Intelligence Lab was working on SubjuGator 9, an autonomous underwater vehicle built for the RoboSub competition. During summer 2025, I was the team lead and led the team to our lab's best performance in 5+ years, placing 12th of 55 international teams. My main technical contributions were designing and fabricating mechanical systems, including the kill system and mounting plates. Additionally, I created the first version of the robot's mission planner system, that was used to string together autonomous behaviors into complex missions. 
