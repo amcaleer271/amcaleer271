@@ -6,8 +6,6 @@ I'm interested in all things robotics, from multi-robot collaboration to robust 
 
 # Projects
 
-Here's a collection of projects, feel free to reach out with any questions!
-
 ## Azimuth Thruster - Spring 2026
 An azimuth thruster I created for my senior realization thesis at the University of Florida's Machine Intelligence Lab. In addition to completing the mechanical design, I also explored the thruster allocation problem for an underconstrained system using cost functions.
 
